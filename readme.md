@@ -8,7 +8,7 @@
 pip install -r  requirements.txt
 ```
 
-## Step [2]
+
 Get your API key from elvenlabs 
 you can generate  10,000 character for free if you want more 
 you need to subscripe anyway  Go to your account and copy your API key
